@@ -42,4 +42,13 @@
 		<connection>scm:git:git@github.com:emmanuelsilva/java.git</connection>
 		<developerConnection>scm:git:git@github.com:emmanuelsilva/java.git</developerConnection>
 	</scm>
+	
+	<repositories>
+		<repository>
+			<id>project.local</id>
+			<name>project</name>
+			<url>file:/Users/Shared/Jenkins/.m2/repository</url>
+		</repository>
+	</repositories>
+	
 </project>
