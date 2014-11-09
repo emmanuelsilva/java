@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.positivo.math</groupId>
 	<artifactId>SimplexSolver</artifactId>
-	<version>1.0.20</version>
+	<version>1.0.35-SNAPSHOT</version>
 	<name>SimplexSolver</name>
 	<description>Linear Programing to calculate the min or max from a function and your subjects.</description>
 
