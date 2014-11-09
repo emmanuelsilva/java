@@ -39,7 +39,7 @@
 
 	<scm>
 		<url>https://github.com/emmanuelsilva/java.git</url>
-		<connection>https://github.com/emmanuelsilva/java.git</connection>
-		<developerConnection>https://github.com/emmanuelsilva/java.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com:emmanuelsilva/java.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:emmanuelsilva/java.git</developerConnection>
 	</scm>
 </project>
